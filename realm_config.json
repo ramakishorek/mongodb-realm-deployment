@@ -1,0 +1,7 @@
+{
+    "app_id": "vue-realm-app-rkhop",
+    "name": "vue-realm-app",
+    "environment": "development",
+    "deployment_model": "LOCAL",
+    "location": "IN-MB"
+  }

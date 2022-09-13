@@ -1,0 +1,18 @@
+{
+    "local-userpass": {
+      "name": "local-userpass",
+      "type": "local-userpass",
+      "config": {
+        "autoConfirm": true,
+        "emailConfirmationUrl": "",
+        "confirmEmailSubject": "Successfully registered",
+        "runConfirmationFunction": false,
+        "confirmationFunctionName": "",
+        "resetPasswordUrl": "",
+        "resetPasswordSubject": "",
+        "runResetFunction": "",
+        "resetFunctionName": ""
+      },
+      "disabled": false
+    }
+  }
